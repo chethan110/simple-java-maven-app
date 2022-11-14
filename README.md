@@ -16,4 +16,4 @@ the "Deliver" stage of your Pipeline.
 
 This is for testing Github webook.
 
-This is a new change from me 1. 
+This is a new change from me. 
